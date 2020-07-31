@@ -1,4 +1,4 @@
-# Myblockchain-project
+# Payment Reconciliation - Hyperledger Composer
 
 This project is for Health Insurance payer to reconcile the status of the payments (Checks, EFT's) with respective Banks.
 
